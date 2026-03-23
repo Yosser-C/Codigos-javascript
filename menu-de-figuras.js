@@ -1,5 +1,5 @@
 function pedirFigura() {
-    ;('escoje el numero de la figura')
+    console.log('escoje el numero de la figura')
 
     let opc = Number(
         prompt(
